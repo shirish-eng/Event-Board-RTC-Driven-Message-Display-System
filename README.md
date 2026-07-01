@@ -1,6 +1,6 @@
 # EventBoard: RTC-Driven Message Display System
 
-An embedded system built on the **LPC2148 (ARM7TDMI-S)** microcontroller that displays scheduled messages based on real-time clock (RTC) data while also monitoring ambient temperature using the **LM35** sensor.
+I designed and implemented an RTC-driven embedded message display system using the LPC2148 microcontroller. The project integrates the internal RTC, keypad, LCD, and LM35 temperature sensor to demonstrate real-time scheduling, peripheral interfacing, and modular Embedded C development
 
 ## Features
 
